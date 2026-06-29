@@ -1,0 +1,5 @@
+uname -a muestra información del sistema operativo, la versión del kernel, la arquitectura y datos del servidor donde se está ejecutando.
+
+whoami muestra el nombre del usuario actual conectado en la terminal, en este caso codespace.
+
+Estos comandos son útiles porque permiten conocer el entorno del servidor y ayudan a administrar mejor los recursos y la seguridad del sistema.
