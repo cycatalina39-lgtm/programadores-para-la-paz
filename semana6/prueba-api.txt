@@ -1,0 +1,9 @@
+La ruta POST /registro recibe los datos enviados por el usuario en formato JSON.
+
+Ejemplo enviado:
+{
+"nombre": "Maria",
+"mensaje": "Hola comunidad"
+}
+
+El servidor responde confirmando que recibió los datos y devuelve el nombre y mensaje enviados.
