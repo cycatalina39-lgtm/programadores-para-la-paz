@@ -1,0 +1,8 @@
+Ruta /:
+Muestra que el servidor está activo y funcionando correctamente.
+
+Ruta /saludo:
+Devuelve un mensaje de saludo para los usuarios.
+
+Ruta /mensaje/:nombre:
+Recibe un nombre como parámetro y responde con un saludo personalizado.
